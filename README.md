@@ -21,6 +21,7 @@ This project is a simple chat application built using Java that demonstrates the
 2. **Run the Server**: Compile and run the server code to start listening for client connections.
 3. **Connect Clients**: Compile and run the client code on multiple instances to start chatting.
 
+![Screenshot 2024-10-12 135832](https://github.com/user-attachments/assets/061d76b1-e175-4ee2-8e96-b64515eade99)
 ### Purpose
 
 This project serves as an educational tool to understand socket programming, client-server architecture, and real-time communication in Java. Whether you're a beginner looking to learn or an experienced developer seeking a refresher, this chat app is a practical example of how networking works in Java.
