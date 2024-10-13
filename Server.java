@@ -1,10 +1,7 @@
 package chatApp;
 
-import javax.swing.*;
-import javax.swing.border.EmptyBorder;
+import javax.swing.*
 import java.awt.*;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 import java.net.*;
 import java.io.*;
 public class Server extends JFrame{
